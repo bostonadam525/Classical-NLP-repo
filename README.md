@@ -1,4 +1,5 @@
 # Classical-NLP-repo
+* by Adam Lang
 * A repo with "classical NLP" techniques. Things we used to do and still do before there were LLMs.
 * When I think of the word "classical" I think of classical music such as Mozart or Beethoven. Without classical music we wouldn't have the music of today such as blues, jazz, rock, alternative and rap.
 * There are many musicians who studied classical music an brought it into their modern style of play such as Eddie Van Halen.
