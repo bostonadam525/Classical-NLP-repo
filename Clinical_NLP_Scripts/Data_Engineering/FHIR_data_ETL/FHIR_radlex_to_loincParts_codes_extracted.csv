@@ -1,0 +1,1150 @@
+display,RID code,LP code
+Oropharynx,RID10003,LP207534-1
+Hypopharynx,RID10021,LP251074-3
+Vein,RID1008,LP207957-4
+Superior vena cava,RID1010,LP206630-8
+Subclavian vein,RID1013,LP249570-5
+internal jugular vein,RID1024,LP266556-2
+imaging modality,RID10311,LP263423-8
+Magnetic resonance imaging,RID10312,LP206549-0
+Functional magnetic resonance imaging,RID10317,LP206618-3
+computed tomography,RID10321,LP200067-9
+Ultrasound,RID10326,LP207608-3
+nuclear medicine imaging,RID10330,LP208891-4
+single photon emission computed tomography,RID10334,LP208892-2
+Positron emission tomography,RID10337,LP208893-0
+Pet-ct,RID10341,LP208694-2
+projection radiography,RID10345,LP212285-3
+Digital radiography,RID10351,LP250931-5
+mammography,RID10357,LP208647-0
+tomosynthesis,RID10359,LP250932-3
+Fluoroscopy,RID10361,LP220472-7
+dual energy xray absorptiometry,RID10363,LP208571-2
+ANGIOGRAPHY,RID10371,LP200068-7
+Doppler,RID10375,LP207609-1
+perfusion imaging,RID10376,LP200070-3
+Spectroscopy,RID10377,LP207112-6
+Venography,RID10379,LP263840-3
+myelography,RID10380,LP263782-7
+portable,RID10383,LP221204-3
+portable,RID10383,LP267663-5
+Dynamic,RID10385,LP207363-5
+Ablation,RID10397,LP200038-0
+Aspiration of bodily substance,RID10398,LP200039-8
+Atherectomy,RID10401,LP220387-7
+embolization,RID10404,LP264920-2
+infusion,RID10406,LP263434-5
+Repair,RID10407,LP207963-2
+Object retrieval,RID10408,LP266846-7
+Thrombectomy,RID10412,LP248596-1
+Device removal,RID10415,LP212509-6
+Drainage,RID10417,LP200044-8
+Right lateral decubitus position,RID10424,LP220555-9
+Right lateral decubitus position,RID10424,LP245418-1
+Left lateral decubitus position,RID10425,LP220554-2
+Left lateral decubitus position,RID10425,LP245417-3
+Lateral decubitus position,RID10439,LP220553-4
+Lateral decubitus position,RID10439,LP245416-5
+Radial deviation position,RID10446,LP266362-5
+Ulnar deviation position,RID10447,LP266361-7
+Open mouth position,RID10451,LP232821-1
+Sitting position,RID10452,LP232827-8
+Upright position,RID10455,LP220611-0
+exhalation maneuver,RID10467,LP221184-7
+inspiration maneuver,RID10468,LP221185-4
+straining maneuver,RID10471,LP234157-8
+Stress maneuver,RID10475,LP207491-4
+exercise stress maneuver,RID10477,LP207667-9
+Adenosine stress,RID10490,LP208669-4
+Implant displaced,RID10509,LP249733-9
+Frontal projection,RID10521,LP266855-8
+Radiography grid,RID10534,LP264224-9
+axial plane,RID10579,LP266843-4
+A-scan,RID10903,LP431354-2
+cine loop,RID10928,LP207362-7
+Elastography,RID10932,LP207610-9
+Elastography,RID10932,LP430815-3
+gated nuclear imaging acquisition,RID10961,LP213665-5
+Anesthesia,RID11006,LP200083-6
+Moderate sedation,RID11015,LP200084-4
+Balloon dilation procedure,RID11030,LP266972-1
+Angioplasty,RID11031,LP266841-8
+Epidural route,RID11100,LP248702-5
+Intra-arterial,RID11108,LP200071-1
+intra-articular,RID11109,LP200075-2
+Intrabronchial,RID11111,LP248713-2
+intracorporus cavernosum,RID11123,LP248704-1
+intradiscal,RID11125,LP200076-0
+Intraductal,RID11126,LP207665-3
+Intralymphatic,RID11136,LP249327-0
+Intrapleural,RID11144,LP248710-8
+Intrauterine,RID11158,LP207659-6
+intravenous,RID11160,LP200078-6
+Oral,RID11173,LP200079-4
+Percutaneous,RID11176,LP200057-0
+Rectal,RID11181,LP200080-2
+respiratory,RID11182,LP200072-9
+Vaginal,RID11200,LP253524-5
+stomach,RID114,LP213585-5
+Patency,RID11506,LP266957-2
+Spinal vein,RID1155,LP207353-6
+Epidural venous plexus,RID1156,LP251118-8
+Contrast agent,RID11582,LP200085-1
+Contrast agent,RID11582,LP266908-5
+Barium sulfate suspension,RID11588,LP266554-7
+Air contrast,RID11590,LP200082-8
+Ferumoxides,RID11643,LP206619-1
+Azygos vein,RID1169,LP251114-7
+Radiopharmaceutical,RID11692,LP208665-2
+Fluorine-18 fluorodeoxyglucose,RID11701,LP231799-0
+Gallium-67,RID11703,LP208667-8
+Indium-111 capromab pendetide,RID11708,LP266625-5
+Indium-111 pentetreotide,RID11710,LP208679-3
+Indium-111 satumomab pendetide,RID11711,LP208680-1
+I-131 metaiodobenzylguanidine,RID11720,LP208676-9
+Samarium-153 Lexidronam,RID11725,LP208898-9
+Tc-99m pertechnetate,RID11728,LP208674-4
+Tc-99m arcitumomab,RID11730,LP208900-3
+Tc-99m bicisate,RID11731,LP208691-8
+Tc-99m disofenin,RID11732,LP208675-1
+Tc-99m exametazine,RID11733,LP208688-4
+Tc-99m gluceptate,RID11734,LP208682-7
+Tc-99m macroaggregated albumin,RID11737,LP208686-8
+Tc-99m oxidronate,RID11743,LP208687-6
+Tc-99m pyrophosphate,RID11745,LP208693-4
+Tc-99m red blood cells,RID11747,LP208685-0
+Tc-99m sestamibi,RID11749,LP208666-0
+Tc-99m sulfur colloid,RID11751,LP208684-3
+Tc-99m tetrofosmin,RID11752,LP208692-6
+Thallium-201,RID11753,LP208673-6
+Y-90 ibitumomab tiuxetan,RID11754,LP212085-7
+Inferior vena cava,RID1178,LP206629-0
+hepatic vein,RID1179,LP207144-9
+Renal vein,RID1184,LP206688-6
+XENON,RID11868,LP200087-7
+Femoral vein,RID1199,LP207992-1
+Popliteal vein,RID1201,LP207993-9
+Portal vein,RID1208,LP206700-9
+splenic vein,RID1209,LP249107-6
+Inferior mesenteric vein,RID1211,LP249185-2
+Superior mesenteric vein,RID1212,LP249106-8
+Pylorus,RID122,LP208139-8
+Thorax,RID1243,LP199962-4
+Airway,RID1245,LP200368-1
+trachea,RID1247,LP234164-4
+at rest,RID12535,LP207666-1
+tractography,RID12705,LP430829-4
+Fine-needle aspiration,RID12933,LP200040-6
+Fine-needle aspiration,RID12933,LP267473-9
+drainage device,RID12939,LP200060-4
+Lung,RID1301,LP199934-3
+Flow,RID13035,LP213628-3
+retrograde,RID13046,LP248753-8
+antegrade,RID13047,LP248699-3
+Inferior epigastric artery,RID13091,LP264579-6
+Comparison image,RID13169,LP266973-9
+nerve,RID13189,LP262855-2
+Set of cranial nerves,RID13190,LP207336-1
+muscle organ,RID13196,LP199993-9
+bone organ,RID13197,LP199958-2
+bone organ,RID13197,LP209032-4
+Small intestine,RID132,LP200015-8
+Small intestine,RID132,LP200442-4
+limb of body,RID13202,LP199969-9
+Skeletal system,RID13208,LP251082-6
+musculoskeletal system,RID13209,LP208046-5
+pharynx,RID13211,LP207535-8
+face,RID13284,LP199970-7
+Lymph node,RID13296,LP199987-1
+portion of tissue,RID13298,LP200029-9
+portion of tissue,RID13298,LP200064-6
+duodenum,RID134,LP249173-8
+Salivary gland,RID13421,LP200008-3
+Salivary gland,RID13421,LP206681-1
+Pleura,RID1362,LP199939-2
+Pleural space,RID1363,LP199940-0
+Mediastinum,RID1384,LP199936-8
+heart,RID1385,LP199927-7
+left atrium,RID1390,LP199928-5
+Left ventricle,RID1392,LP213652-3
+Left ventricle,RID1392,LP217238-7
+Aortic valve,RID1394,LP264576-2
+Pericardial cavity,RID1408,LP208376-6
+Thymus,RID1430,LP249177-9
+Thoracic inlet,RID1432,LP206635-7
+Jejunum,RID148,LP249172-0
+Ileum,RID150,LP267952-2
+diaphragm,RID1524,LP208107-5
+Portion of cerebrospinal fluid,RID1544,LP264580-4
+Fluid,RID1547,LP263835-3
+Procedure,RID1559,LP249588-7
+Procedure,RID1559,LP249876-6
+transjugular intrahepatic portal-systemic shunt,RID1595,LP249286-8
+Rectum,RID163,LP199942-6
+Gastrostomy,RID1634,LP248512-8
+Anus,RID164,LP199912-9
+Chemoembolization,RID1647,LP266958-0
+cholecystostomy,RID1671,LP263788-4
+Appendix,RID168,LP199917-8
+Pancreas,RID170,LP199937-6
+cryoablation,RID1754,LP263435-2
+Ureterostomy,RID1758,LP263832-0
+pancreatic duct,RID176,LP207065-6
+Ileal conduit,RID1778,LP232129-9
+Vertebroplasty,RID1839,LP200055-4
+kyphoplasty,RID1840,LP220390-1
+radiofrequency ablation,RID1849,LP263779-3
+Upper extremity,RID1850,LP200031-5
+Shoulder girdle,RID1852,LP200011-7
+clavicle,RID1854,LP199963-2
+nerve root,RID18593,LP263425-3
+Scapula,RID1860,LP200009-1
+gallbladder,RID187,LP199926-9
+gallbladder,RID187,LP199975-6
+Sternoclavicular joint,RID1884,LP200021-6
+acromioclavicular joint,RID1895,LP207519-2
+Arm,RID1968,LP200030-7
+Humerus,RID1971,LP221454-4
+Bicipital groove of humerus,RID1980,LP230318-0
+Common bile duct,RID199,LP249841-0
+Cervical segment of spinal epidural space,RID20050,LP345109-5
+Thoracic segment of spinal epidural space,RID20051,LP249563-0
+Lumbar segment of spinal epidural space,RID20052,LP249562-2
+elbow,RID2010,LP199967-3
+kidney,RID205,LP199983-0
+kidney,RID205,LP200461-4
+forearm,RID2107,LP199974-9
+Radius,RID2109,LP221452-8
+Ulna,RID2119,LP221453-6
+Wrist,RID2177,LP200037-2
+Wrist,RID2177,LP221474-2
+Scaphoid,RID2181,LP428485-9
+Triquetrum,RID2189,LP428489-1
+Pisiform,RID2191,LP428488-3
+Trapezium,RID2193,LP428486-7
+Trapezoid,RID2195,LP428487-5
+Hamate,RID2198,LP428490-9
+Intercostal nerve,RID22795,LP250937-2
+Ureter,RID229,LP200371-5
+Carpal tunnel,RID2314,LP208065-5
+hand,RID2318,LP199976-4
+hand,RID2318,LP221491-6
+Urinary bladder,RID237,LP199948-3
+Urinary bladder,RID237,LP200372-3
+Finger,RID2391,LP207059-9
+Finger,RID2391,LP222072-3
+Thumb,RID2392,LP207280-1
+Index finger,RID2394,LP222073-1
+Long finger,RID2396,LP222074-9
+Ring finger,RID2398,LP222075-6
+Small finger,RID2400,LP222076-4
+Chest wall,RID2468,LP208118-2
+axilla,RID2470,LP207783-4
+Sternum,RID2473,LP206665-4
+Pelvis,RID2507,LP199998-8
+Sacrum,RID2509,LP200007-5
+Coccyx,RID2524,LP199964-0
+Pelvic bone,RID2527,LP264321-3
+Acetabulum,RID2564,LP230195-2
+Sacroiliac joint,RID2577,LP200006-7
+Symphysis pubis,RID2594,LP232130-7
+Lower extremity,RID2638,LP199985-5
+hip,RID2639,LP199979-8
+Thigh,RID2660,LP206655-5
+femur,RID2662,LP199972-3
+femur,RID2662,LP200377-2
+knee,RID2743,LP199984-8
+Patella,RID2746,LP221451-0
+Ankle,RID28545,LP199957-4
+set of bone organs,RID28569,LP212843-9
+set of facial bones,RID28570,LP199971-5
+Lacrimal ducts,RID28575,LP213647-3
+Paranasal sinuses,RID28579,LP200013-3
+posterior ends of ribs,RID28581,LP221502-0
+Set of arteries,RID28585,LP199918-6
+Set of pulmonary arteries,RID28586,LP200555-3
+Set of pulmonary arteries,RID28586,LP242691-6
+Set of veins,RID28587,LP207526-7
+Set of pulmonary veins,RID28588,LP199941-8
+set of ribs,RID28591,LP221278-7
+anterior ends of upper ribs,RID28597,LP221504-6
+zygomatic arch,RID28599,LP230200-0
+Circle of Willis,RID28600,LP200344-2
+orbits,RID28601,LP200557-9
+Magnification,RID28651,LP249289-2
+reconstruction,RID28665,LP200385-5
+thoracic spine region,RID28677,LP200020-8
+Popliteal fossa,RID2868,LP208048-1
+Perirectal region,RID28680,LP268271-6
+Leg,RID2869,LP199986-3
+Motion,RID28696,LP208109-1
+densitometry,RID28706,LP200395-4
+device placement procedure,RID28707,LP200050-5
+Localization,RID28708,LP200047-1
+Fibula,RID2871,LP207282-7
+Cervicothoracic spine region,RID28726,LP230288-5
+Set of coronary arteries,RID28727,LP199923-6
+Set of coronary arteries,RID28727,LP199966-5
+Base of cranium,RID28731,LP200014-1
+Lumbosacral junction,RID28734,LP200019-0
+Lumbosacral junction,RID28734,LP230292-7
+Thoracolumbar junction,RID28739,LP230293-5
+Superior mediastinum,RID28742,LP231885-7
+Parotid gland,RID28744,LP199997-0
+Parotid gland,RID28744,LP207335-3
+breast,RID28749,LP199961-6
+cervicothoracic-brachial compartment,RID28751,LP200027-3
+set of toes,RID28757,LP206645-6
+set of toes,RID28757,LP221477-5
+fiducial marker,RID28789,LP263819-7
+Implant,RID28790,LP207529-1
+CALCIUM SCORE,RID28808,LP200093-5
+CSF flow,RID28809,LP266840-0
+Function,RID28812,LP209054-8
+leg length,RID28813,LP266922-6
+preoperative,RID28815,LP263780-1
+Screening,RID28817,LP200187-5
+skeletal survey,RID28819,LP266956-4
+viability,RID28821,LP217248-6
+Prosthesis,RID28823,LP249255-3
+foot,RID28829,LP199973-1
+foot,RID28829,LP221475-9
+Lumbar intervertebral disk,RID28830,LP268290-6
+tomography,RID28840,LP220473-5
+Injection,RID28842,LP200046-3
+Tibia,RID2885,LP207281-9
+Perfusion acquisition,RID28948,LP248197-8
+Ovary,RID290,LP206705-8
+Vertebra,RID29154,LP263430-3
+Hindfoot,RID2945,LP199978-0
+Midfoot,RID2946,LP199992-1
+Forefoot,RID2947,LP268116-3
+uterine tube,RID295,LP230317-2
+calcaneus,RID2959,LP208588-6
+calcaneus,RID2959,LP221482-5
+upper gastrointestinal tract,RID29665,LP234184-2
+Toe,RID2992,LP206646-4
+Toe,RID2992,LP221476-7
+Great toe,RID2993,LP222085-5
+Second toe,RID2996,LP221478-3
+Third toe,RID2997,LP221479-1
+Fourth toe,RID2998,LP221480-9
+Fifth toe,RID2999,LP221481-7
+right upper quadrant of abdomen,RID29994,LP208105-9
+wall of abdomen,RID30014,LP208113-3
+Joint of ankle or foot,RID3003,LP269338-2
+Uterus,RID302,LP200033-1
+Lymphatic vessel,RID30383,LP262773-7
+Colon,RID31011,LP199922-8
+Colon,RID31011,LP199965-7
+Set of abdominal lymphatic vessels,RID31305,LP249183-7
+Cervical part of esophagus,RID31553,LP251062-8
+External oblique,RID31596,LP431651-1
+Internal oblique,RID31599,LP431650-3
+Vagina,RID325,LP251083-4
+Aneurysm,RID3321,LP253546-8
+Aneurysm,RID3321,LP267219-6
+pseudoaneurysm,RID3331,LP208364-2
+pseudoaneurysm,RID3331,LP267467-1
+Infectious or inflammatory disease,RID3381,LP209036-5
+Prostate,RID343,LP200001-8
+Washout delayed phase,RID34333,LP266850-9
+Long bone,RID34436,LP213632-5
+Cerebral vein,RID34445,LP250935-6
+Dural venous sinus,RID34474,LP250933-1
+Pediatric,RID34492,LP208652-0
+Eye,RID34550,LP207778-4
+placenta,RID34557,LP200062-0
+placenta,RID34557,LP208379-0
+Umbilical Cord,RID34558,LP208557-1
+cervical vertebral arch joint,RID34563,LP249189-4
+Cervical vertebral column,RID34571,LP200017-4
+Lumbar vertebral column,RID34573,LP200018-2
+thrombosis,RID34624,LP267356-6
+Deep vein thrombosis,RID34625,LP266848-3
+sarcoidosis,RID34662,LP209028-2
+brain death,RID34681,LP266852-5
+Adrenal vein,RID34819,LP230316-4
+Urethra,RID34890,LP206638-1
+Arthritis,RID3553,LP248203-4
+seminal vesicle,RID357,LP251026-3
+Portion of soft tissue,RID35730,LP207340-3
+Portion of soft tissue,RID35730,LP208038-2
+Guidance,RID35732,LP200066-1
+Posterior cranial fossa,RID35735,LP200000-0
+Posterior cranial fossa,RID35735,LP206698-5
+Congenital disorder,RID35738,LP200393-9
+Lung parenchyma,RID35739,LP199935-0
+Cuneiform bone,RID35744,LP428451-1
+Mastoid region,RID35754,LP199989-7
+PELVIMETRY,RID35772,LP200095-0
+scanogram,RID35773,LP200452-3
+NERVE BLOCK,RID35774,LP200049-7
+Stereotactic localization,RID35777,LP206577-1
+Sesamoid bone of foot,RID35798,LP221487-4
+Vas deferens,RID358,LP249181-1
+maxillofacial region,RID35812,LP199991-3
+paracentesis,RID35813,LP263433-7
+pericardiocentesis,RID35814,LP263432-9
+thoracentesis,RID35815,LP263783-5
+subdivision of common carotid artery,RID35846,LP249577-0
+arterial anastomosis,RID35882,LP263836-1
+subdivision of cerebral part of internal carotid artery,RID35904,LP249574-7
+Infrarenal aorta,RID35944,LP253544-3
+Pancreatic artery,RID35951,LP249104-3
+umbilical artery,RID35962,LP208556-3
+3D image processing,RID36017,LP200091-9
+3D image processing,RID36017,LP200383-0
+additional spinal level,RID36024,LP263792-6
+penis,RID362,LP208052-3
+penis,RID362,LP234855-7
+Scrotum,RID365,LP200010-9
+Scrotum,RID365,LP220352-1
+Testis,RID366,LP220353-9
+epididymis,RID371,LP199924-4
+infection,RID3710,LP266919-2
+ABSCESS,RID3711,LP200058-8
+Graft,RID3751,LP207966-5
+hepatic artery,RID38078,LP199929-3
+Intrahepatic branch of portal vein,RID38279,LP249253-8
+Lymphoma,RID3840,LP266900-2
+Renal calculus,RID38586,LP232215-6
+Unilateral,RID38593,LP207061-5
+bone marrow,RID38594,LP199959-0
+Clip placement,RID38597,LP251025-5
+Vacuum-assisted biopsy,RID38602,LP208019-2
+Biopsy,RID38611,LP200041-4
+Pituitary gland,RID38674,LP199938-4
+Mass,RID3874,LP266903-6
+Set of carotid arteries,RID38751,LP208124-0
+Femoral artery,RID38761,LP207756-0
+Specimen,RID38777,LP207964-0
+Specimen,RID38777,LP208644-7
+Lesion,RID38780,LP431356-7
+cyst,RID3890,LP200059-6
+cyst,RID3890,LP249802-2
+bone age,RID39030,LP248204-2
+Cholecystokinin,RID39035,LP207662-0
+Delayed,RID39065,LP266849-1
+Delayed,RID39065,LP266901-0
+motility,RID39132,LP266905-1
+respiratory system,RID39189,LP200003-4
+radiotherapy,RID39262,LP200051-3
+radiotherapy,RID39262,LP200063-8
+intraoperative,RID39334,LP266371-6
+greater than 14 weeks,RID39335,LP208036-6
+less than 14 weeks,RID39336,LP208035-8
+arthrocentesis,RID39339,LP263774-4
+major joint,RID39343,LP262821-4
+small joint,RID39344,LP262819-8
+medium-sized joint,RID39345,LP262820-6
+diagnostic,RID39446,LP249287-6
+diagnostic,RID39446,LP263806-4
+ganglion cyst,RID3949,LP263785-0
+Shoulder,RID39518,LP200011-7
+Pseudocyst,RID3954,LP268039-7
+set of testicles,RID39541,LP200026-5
+transrectal,RID39542,LP266372-4
+transvaginal,RID39543,LP253462-8
+transplanted kidney,RID39544,LP208026-7
+Set of blood vessels,RID39545,LP199950-9
+Set of blood vessels,RID39545,LP200035-6
+Set of blood vessels,RID39545,LP249580-4
+Set of blood vessels,RID39545,LP249581-2
+fetal abnormality,RID39546,LP207978-0
+Set of iliac arteries,RID39553,LP208093-7
+whole body,RID39569,LP200036-4
+neoplasm,RID3957,LP207120-9
+skull base to mid-thigh,RID39570,LP209023-3
+Olecranon,RID39681,LP232131-5
+hemangioma,RID3969,LP266918-4
+Peritoneal cavity,RID397,LP208137-2
+Subphrenic space,RID399,LP200023-2
+Blood vessel,RID4,LP220354-7
+peritoneum,RID410,LP249174-6
+synovial cavity of joint,RID41021,LP199982-2
+RETROPERITONEUM,RID431,LP199943-4
+Genitourinary system,RID43244,LP208560-5
+tube insertion,RID43245,LP263784-3
+Sentinel lymph node,RID43247,LP266872-3
+GI-bleed,RID43369,LP209002-7
+ACE inhibitor,RID43373,LP213629-1
+diuretic,RID43377,LP208896-3
+Tc-99m dimercapto succinic acid,RID43378,LP208689-2
+I-123,RID43384,LP208671-0
+I-131,RID43386,LP208672-8
+Indium-111 white blood cells,RID43390,LP208681-9
+Tc-99m methylene-diphosphonate,RID43394,LP208690-0
+1 view,RID43399,LP220528-6
+1 view,RID43399,LP222059-0
+Perirenal space,RID434,LP268085-0
+1-2 views,RID43400,LP220529-4
+2-3 views,RID43401,LP220531-0
+2 or more views,RID43402,LP220539-3
+2 views,RID43403,LP220530-2
+3 or more views,RID43405,LP220540-1
+3 or more views,RID43405,LP263794-2
+3 or more views,RID43405,LP264231-4
+3 views,RID43406,LP220532-8
+3 views,RID43406,LP266971-3
+4 or more views,RID43407,LP217246-0
+4 or more views,RID43407,LP266838-4
+4 views,RID43408,LP220534-4
+Set of nasal bones,RID43410,LP206714-0
+3 or fewer views,RID43557,LP217247-8
+3 or fewer views,RID43557,LP220543-5
+3 or fewer views,RID43557,LP266839-2
+4 or fewer views,RID43558,LP266856-6
+5 views,RID43559,LP220535-1
+three phase imaging,RID43560,LP266974-7
+three phase imaging,RID43560,LP267476-2
+Set of fallopian tubes,RID43579,LP208029-1
+Fetal age,RID43581,LP267475-4
+AP view,RID43583,LP220552-6
+apical lordotic view,RID43584,LP220580-7
+cone view,RID43586,LP232218-0
+lateral view,RID43591,LP220572-4
+left oblique view,RID43593,LP220579-9
+PA view,RID43594,LP220588-0
+PA view,RID43594,LP248201-8
+right oblique view,RID43596,LP220594-8
+Spot view,RID43597,LP220599-7
+Arcein view,RID43600,LP266842-6
+Broden view,RID43605,LP266854-1
+Danelius miller view,RID43616,LP220562-5
+Ferguson view,RID43618,LP220563-3
+Friedman view,RID43621,LP220564-1
+Grashey view,RID43625,LP220566-6
+Holmblad view,RID43630,LP220568-2
+Judet view,RID43637,LP220570-8
+Mayer view,RID43653,LP245419-9
+Merchant view,RID43654,LP220582-3
+Norgaard view,RID43665,LP220558-3
+original Law view,RID43667,LP266364-1
+Caldwell view,RID43671,LP220561-7
+Stenvers view,RID43681,LP266365-8
+Stryker notch view,RID43682,LP220601-1
+Towne view,RID43686,LP220605-2
+Occipitomental view,RID43689,LP220614-4
+West point view,RID43690,LP220617-7
+Optic foramen,RID43693,LP230199-4
+Tc-99m DTPA,RID43697,LP208683-5
+Neuroendocrine neoplasm,RID4483,LP266851-7
+wall motion,RID45640,LP213666-3
+shunt detection,RID45641,LP266965-5
+shunt patency,RID45642,LP248199-4
+vascular flow,RID45644,LP208662-9
+ejection fraction,RID45645,LP213667-1
+ejection fraction,RID45645,LP248200-0
+ventilation,RID45647,LP248196-0
+first pass,RID45658,LP213664-8
+babygram,RID45659,LP232449-1
+oblique view,RID45661,LP220585-6
+swimmers view,RID45663,LP220603-7
+Thyroid cancer,RID45691,LP209064-7
+blood pool imaging,RID45693,LP213663-0
+Tc-99m white blood cells,RID45695,LP208910-2
+STEREOTACTIC BIOPSY,RID45699,LP200054-7
+Needle localization,RID45700,LP200048-9
+callback,RID45701,LP251011-5
+Multiple ducts,RID45707,LP264229-8
+Endoscopy,RID45710,LP248508-6
+set of biliary ducts,RID45712,LP199919-4
+Videography,RID45718,LP220474-3
+Intrathecal,RID45772,LP200077-8
+Intrathecal,RID45772,LP416493-7
+glomerular filtration rate,RID45776,LP266917-6
+supine view,RID45779,LP245420-7
+Left lateral view,RID45780,LP220578-1
+Right lateral view,RID45781,LP220593-0
+cross table lateral view,RID45782,LP220573-2
+carpal tunnel view,RID45783,LP266853-3
+Transthoracic view,RID45785,LP220607-8
+Sunrise view,RID45786,LP220602-9
+Tunnel view,RID45787,LP220610-2
+Inlet view,RID45788,LP220569-0
+Outlet view,RID45789,LP220587-2
+Axillary view,RID45790,LP220557-5
+Submentovertical view,RID45791,LP266366-6
+Obliques view,RID45795,LP266368-2
+Runoff,RID45802,LP266859-0
+18F-Sodium Fluoride,RID45804,LP212086-5
+Dipyridamole,RID45805,LP208668-6
+Dobutamine,RID45806,LP208670-2
+3-4 views,RID46007,LP220533-6
+Pyloric stenosis,RID46040,LP266899-6
+speech pathology,RID46063,LP251050-3
+feeding tube advancement,RID46071,LP251037-0
+lumbar puncture,RID46073,LP263781-9
+Endoleak,RID4613,LP266955-6
+scoliosis,RID4756,LP266363-3
+inguinal part of abdomen,RID476,LP208120-8
+artery,RID478,LP208397-2
+Aorta,RID480,LP199913-7
+Defecography,RID48083,LP207364-3
+voiding,RID48090,LP221194-6
+Transcatheter,RID48091,LP263809-8
+Measurement procedure,RID48094,LP266370-8
+torsion,RID4813,LP208022-6
+Ileal diverticulum,RID4818,LP208999-5
+Supraaortic valve area,RID482,LP268291-4
+Embolism,RID4825,LP200097-6
+Embolism,RID4825,LP411245-6
+Fistula,RID4843,LP200012-5
+Fistula,RID4843,LP200094-3
+Fistula,RID4843,LP249178-7
+arteriovenous fistula,RID4851,LP208115-8
+arteriovenous fistula,RID4851,LP213650-7
+arteriovenous fistula,RID4851,LP251116-2
+cerebrospinal fluid leak,RID4881,LP209051-4
+cerebrospinal fluid leak,RID4881,LP209052-2
+pregnancy,RID4941,LP207970-7
+pregnancy,RID4941,LP208037-4
+Axial skeleton,RID49467,LP213653-1
+post-fatty-meal,RID49476,LP248698-5
+Swallowing function assessment,RID49478,LP266894-7
+celiac nerve plexus,RID49533,LP199920-2
+Set of cerebral arteries,RID49534,LP208123-2
+set of cerebral sinuses,RID49535,LP251107-1
+Vasculature of kidney,RID49537,LP200005-9
+Vasculature of kidney,RID49537,LP200333-5
+set of cerebral cisterns,RID49538,LP199921-0
+Set of cervical arteries,RID49539,LP251115-4
+Set of iliac vessels,RID49541,LP207956-6
+Set of visceral arteries,RID49542,LP251093-3
+post-therapy,RID49564,LP209067-0
+multiple views,RID49567,LP221404-9
+uptake,RID49568,LP266781-6
+venous sampling,RID49569,LP263800-7
+Volume quantification,RID49570,LP208025-9
+multiple days,RID49574,LP209070-4
+initial day,RID49575,LP263786-8
+final day,RID49576,LP263795-9
+transhepatic,RID49579,LP263802-3
+SPECT-CT,RID49583,LP234845-8
+dosimetry,RID49590,LP209061-3
+endovenous laser treatment,RID49593,LP208365-9
+in vitro fertilization,RID49594,LP207984-8
+lymphedema,RID49595,LP209077-9
+manometry,RID49596,LP251046-1
+rectal dysfunction,RID49598,LP251052-9
+Procedure simulation,RID49599,LP209030-8
+trigger point,RID49607,LP263841-1
+vertebral fracture,RID49608,LP266369-0
+callback technical,RID49614,LP251012-3
+amyloid,RID49619,LP209029-0
+Device exchange,RID49621,LP200045-5
+check tube,RID49632,LP251102-2
+check tube,RID49632,LP267668-4
+Substance removal,RID49634,LP212510-4
+set of tibio-peroneal arteries,RID49636,LP230207-5
+Set of lymph vessels,RID49640,LP213639-0
+small bowel loop diversion,RID49642,LP251043-8
+urinary pouch,RID49643,LP266870-7
+metabolic,RID49652,LP212101-2
+hemodynamic evaluation,RID49657,LP249281-9
+hemodynamic evaluation,RID49657,LP263839-5
+1-2 muscles,RID49658,LP263793-4
+Device conversion,RID49665,LP267469-7
+G--tube to G-J tube conversion,RID49666,LP267669-2
+Shunt,RID4969,LP267661-9
+cortex of kidney,RID49727,LP213638-2
+Set of renal arteries,RID49729,LP249191-0
+seminal vesicle contrast,RID49733,LP251109-7
+thrombolytic agent,RID49734,LP248905-4
+thrombolytic agent,RID49734,LP263790-0
+through ilial conduit,RID49735,LP266782-4
+transjugular,RID49736,LP220388-5
+cholangioscopy,RID49739,LP263789-2
+ligation,RID49747,LP263796-7
+mechanical thrombectomy,RID49748,LP263798-3
+microwave ablation,RID49749,LP263797-5
+percutaneous sympathectomy,RID49755,LP264233-0
+percutaneous transluminal angioplasty,RID49757,LP249285-0
+Device revision,RID49760,LP263813-0
+stab phlebectomy,RID49771,LP208147-1
+stab phlebectomy,RID49771,LP267468-9
+Dilation procedure,RID49772,LP248507-8
+vertebral augmentation,RID49776,LP263799-1
+Core needle biopsy,RID49777,LP200042-2
+1 level,RID49781,LP264232-2
+additional puncture,RID49782,LP251034-7
+additional day,RID49784,LP263787-6
+additional procedure,RID49785,LP263805-6
+additional vessel same family,RID49787,LP263791-8
+initial vessel,RID49788,LP266920-0
+additional area,RID49792,LP263791-8
+Multiple areas,RID49793,LP208935-9
+set of penis vessels,RID49825,LP208051-5
+Panoramic,RID49830,LP220590-6
+Deep needle biopsy,RID49836,LP200185-9
+Tissue sampling,RID49838,LP208149-7
+Nephrostomy tube,RID49839,LP200061-2
+Unspecified laterality,RID49843,LP199955-8
+Laterality present,RID49844,LP199954-1
+Percutaneous drainage tube,RID49849,LP200358-2
+Radiosurgery,RID49850,LP200052-1
+Reduced contrast volume,RID49851,LP200086-9
+with,RID49853,LP200088-5
+without,RID49854,LP200089-3
+without and with,RID49855,LP200090-1
+device replacement,RID49857,LP200053-9
+intra-salivery duct,RID49858,LP200073-7
+intra-sinus tract,RID49859,LP200074-5
+Anteversion,RID49860,LP200092-7
+joint of lower extremity,RID49861,LP200354-1
+joint of upper extremity,RID49862,LP200357-4
+Set of upper extremity vessels,RID49863,LP207136-5
+Set of runoff vessels,RID49864,LP199944-2
+Set of pulmonary vessels,RID49865,LP200004-2
+Set of pulmonary vessels,RID49865,LP206694-4
+Deep biopsy,RID49866,LP200184-2
+leg measurement,RID49867,LP200360-8
+via enteroclysis tube,RID49868,LP200081-0
+Superficial biopsy,RID49871,LP200444-0
+superficial needle biopsy,RID49872,LP200445-7
+set of teeth,RID49873,LP200436-6
+intra-bladder,RID49874,LP200434-1
+Change,RID49896,LP249806-3
+reduced,RID49912,LP267357-4
+Set of abdominal vessels,RID49921,LP207131-6
+Set of ankle vessels,RID49922,LP207272-8
+Set of extremity vessels,RID49923,LP207288-4
+Set of extremity vessels,RID49923,LP250936-4
+Set of foot vessels,RID49924,LP207273-6
+Set of forearm vessels,RID49925,LP207276-9
+Set of head vessels,RID49926,LP207133-2
+Set of knee vessels,RID49927,LP207138-1
+Set of lower extremity vessels,RID49928,LP207137-3
+Set of lower leg vessels,RID49929,LP207141-5
+Set of neck veins,RID49930,LP207147-2
+Set of neck vessels,RID49931,LP207132-4
+Set of orbit vessels,RID49932,LP207293-4
+Set of pelvis vessels,RID49933,LP207134-0
+Set of shoulder vessels,RID49934,LP207135-7
+Set of spine vessels,RID49935,LP207324-7
+Set of cervical spine vessels,RID49936,LP207322-1
+Set of lumbar spine vessels,RID49937,LP207323-9
+Set of thoracic spine vessels,RID49938,LP207321-3
+Set of superior mesenteric vessels,RID49939,LP206661-3
+calculus,RID4994,LP248522-7
+Set of thigh vessels,RID49940,LP207140-7
+Set of thoracic inlet vessels,RID49941,LP207366-8
+Set of tibioperoneal vessels,RID49942,LP207355-1
+set of tributaries,RID49943,LP207342-9
+Set of upper extremity veins,RID49944,LP207302-3
+Set of wrist vessels,RID49945,LP207139-9
+low-grade tumor,RID49946,LP207121-7
+high-grade tumor,RID49947,LP207122-5
+new-diagnosis tumor,RID49948,LP207123-3
+Saline,RID49954,LP207658-8
+portion of amniotic fluid,RID49955,LP208080-4
+Vascular access,RID49956,LP208078-8
+Set of abdominal veins,RID49957,LP207522-6
+Set of adrenal vessels,RID49958,LP207518-4
+Set of carotid vessels,RID49959,LP207279-3
+Set of celiac vessels,RID49960,LP207525-9
+Set of chest veins,RID49961,LP207544-0
+Set of chest vessels,RID49962,LP207508-5
+Set of extremity arteries,RID49963,LP207759-4
+Set of extremity arteries,RID49963,LP249568-9
+Set of extremity veins,RID49964,LP207527-5
+Set of extremity veins,RID49964,LP251077-6
+Set of femoral vessels,RID49965,LP207528-3
+Set of hand vessels,RID49966,LP207779-2
+Set of head arteries,RID49967,LP207545-7
+Set of head veins,RID49968,LP207542-4
+Set of head veins,RID49968,LP217240-3
+Set of lower extremity veins,RID49969,LP207523-4
+Set of ovarian vessels,RID49970,LP207765-1
+Set of pelvis veins,RID49971,LP207543-2
+lactiferous duct,RID49972,LP208056-4
+Extremity artery,RID49974,LP208014-3
+Lower extremity artery,RID49975,LP208013-5
+Lower extremity artery,RID49975,LP230208-3
+Upper extremity artery,RID49976,LP208012-7
+Lower extremity vessel,RID49978,LP208092-9
+Upper extremity vessel,RID49979,LP208091-1
+Extremity vein,RID49981,LP207958-2
+Lower extremity vein,RID49982,LP207960-8
+Upper extremity vein,RID49983,LP207959-0
+Chorionic villus,RID49984,LP208150-5
+Peripheral venous access,RID50031,LP208664-5
+Transplanted liver,RID50032,LP208385-7
+Transplanted liver,RID50032,LP208389-9
+Transplanted pancreas,RID50033,LP208388-1
+Transplanted kidney vessels,RID50034,LP208390-7
+Single state of exercise,RID50035,LP209058-9
+Multiple states of exercise,RID50036,LP209059-7
+Cholecystokinetic agent,RID50037,LP212121-0
+visceral artery,RID50038,LP208642-1
+iliac artery graft,RID50039,LP208645-4
+Indium-111 tiuxetan,RID50040,LP208678-5
+Furosemide,RID50041,LP213630-9
+Sincalide,RID50042,LP208897-1
+set of umbilical vessels,RID50043,LP208561-3
+set of subclavian vessels,RID50044,LP208138-0
+Set of testicular vessels,RID50045,LP208371-7
+Set of breast vessels,RID50046,LP208117-4
+set of mesenteric arteries,RID50047,LP208122-4
+Endomyocardium,RID50048,LP208373-3
+Peripheral skeletal system,RID50049,LP213654-9
+Breast specimen,RID50050,LP208696-7
+Breast specimen,RID50050,LP266783-2
+Breast specimen,RID50050,LP266784-0
+Tc-99m,RID50051,LP208899-7
+Depreotide,RID50052,LP208895-5
+tagged white blood cells,RID50053,LP209038-1
+Flexion maneuver,RID50069,LP206622-5
+posteroanterior 45-degree flexion view,RID50070,LP221188-8
+Defecation maneuver,RID50072,LP234158-6
+Bending maneuver,RID50073,LP221189-6
+clenched fist maneuver,RID50074,LP221192-0
+Extension maneuver,RID50075,LP206621-7
+Extension maneuver,RID50075,LP232818-7
+External rotation view,RID50077,LP221197-9
+forced dorsiflexion maneuver,RID50078,LP221193-8
+Internal rotation view,RID50079,LP221196-1
+Left bending maneuver,RID50081,LP221191-2
+Right bending maneuver,RID50082,LP221190-4
+Standing maneuver,RID50083,LP221186-2
+Weight-bearing maneuver,RID50085,LP221195-3
+10 degree caudal angle view,RID50087,LP220544-3
+30 degree caudal angle view,RID50088,LP220548-4
+10 degree cephalic angle view,RID50090,LP220545-0
+20 degree cephalic angle view,RID50091,LP220546-8
+Posteroanterior 30 degree flexion view,RID50092,LP220547-6
+45 degree cephalic angle view,RID50093,LP220549-2
+90 degree abduction view,RID50094,LP220550-0
+Bora view,RID50095,LP220559-1
+Brewerton view,RID50096,LP220560-9
+Garth view,RID50097,LP220565-8
+Harris view,RID50098,LP220567-4
+Harris view,RID50098,LP266847-5
+Rosenberg view,RID50099,LP220595-5
+Von Rosen view,RID50100,LP220613-6
+Waters stereo view,RID50101,LP220615-1
+Waters upright view,RID50102,LP220616-9
+Zanca view,RID50103,LP220620-1
+Endorectal view,RID50104,LP207347-8
+Endovaginal view,RID50105,LP207346-0
+Left anterior oblique view,RID50106,LP220571-6
+Lateral frog leg view,RID50107,LP220574-0
+Lateral spot view,RID50109,LP220576-5
+Laurin view,RID50111,LP220577-3
+Left posterior oblique view,RID50113,LP220581-5
+Mediolateral oblique view,RID50114,LP220583-1
+Mortise view,RID50115,LP220584-9
+Odontoid view,RID50116,LP220586-4
+Posteroanterior prone view,RID50118,LP220589-8
+radio head capitallar view,RID50119,LP220591-4
+Right anterior oblique view,RID50120,LP220592-2
+Right posterior oblique view,RID50121,LP220596-3
+Scaphoid view,RID50122,LP220597-1
+Serendipity view,RID50123,LP220598-9
+Tangential view,RID50124,LP220604-5
+True anteroposterior view,RID50125,LP220608-6
+True lateral view,RID50126,LP220609-4
+Velpeau view,RID50127,LP220612-8
+Laterally exaggerated craniocaudal view,RID50128,LP220618-5
+Y view,RID50129,LP220619-3
+Gastrointestinal transit time,RID50130,LP220606-0
+Stereoscopy,RID50131,LP220600-3
+standing with brace maneuver,RID50132,LP221187-0
+Bronchoscopy,RID50156,LP220389-3
+6 views,RID50157,LP220536-9
+7 views,RID50158,LP220537-7
+8 views,RID50159,LP220538-5
+5 or more views,RID50160,LP220541-9
+6 or more views,RID50161,LP220542-7
+skull vertex to mid-thigh,RID50162,LP231648-9
+posterior ends of lower ribs,RID50164,LP221500-4
+posterior ends of upper ribs,RID50165,LP221501-2
+set of upper ribs,RID50166,LP221505-3
+set of lower ribs,RID50167,LP221508-7
+anterior ends of ribs,RID50168,LP221506-1
+anterior ends of lower ribs,RID50169,LP232208-1
+portion of oral tissue,RID50170,LP231766-9
+closed mouth position,RID50172,LP232822-9
+set of bones from skull base to mid-thigh,RID50173,LP234173-5
+4-5 views,RID50174,LP234155-2
+Suprapubic catheter,RID50175,LP251056-0
+Stricture,RID5022,LP263828-8
+Denervation procedure,RID50240,LP248509-4
+Central venous catheter without port or pump,RID50241,LP248603-5
+Central venous catheter with port or pump,RID50242,LP248602-7
+Central venous catheter with port or pump,RID50242,LP263821-3
+Cystourethrography chain,RID50244,LP248695-1
+1.5H post,RID50245,LP248916-1
+15M post,RID50246,LP248917-9
+1H post,RID50247,LP248919-5
+2H post,RID50248,LP248921-1
+30M post,RID50249,LP248923-7
+45M post,RID50250,LP248925-2
+48H post,RID50251,LP248926-0
+Via fistula,RID50252,LP248690-2
+Intra vas deferens,RID50253,LP248703-3
+Intra lacrimal duct,RID50254,LP248707-4
+intralaryngeal,RID50255,LP248709-0
+intra-stent,RID50256,LP248711-6
+Percutaneous intraperitoneal,RID50257,LP249308-0
+Percutaneous transhepatic,RID50258,LP249307-2
+Retrograde intrabiliary,RID50259,LP249030-0
+Stereotactic radiography,RID50260,LP249730-5
+lateral hyperextension view,RID50262,LP220575-7
+Patency of biliary structures,RID50263,LP248198-6
+Renin sampling,RID50264,LP249282-7
+10M post,RID50265,LP248205-9
+Renal vessel,RID50266,LP249190-2
+Head artery,RID50267,LP230197-8
+Intracranial vessel,RID50268,LP249824-6
+Femoral vessel,RID50269,LP249582-0
+Adrenal vessel,RID50270,LP232634-8
+Extremity vessel,RID50271,LP249583-8
+Peripheral artery,RID50272,LP249251-2
+Spinal artery,RID50273,LP249252-0
+set of pelvic lymphatic vessels,RID50274,LP249184-5
+Set of Extremity lymphatic vessels,RID50275,LP249112-6
+Set of Extremity lymphatic vessels,RID50275,LP249246-2
+set of pelvic arteries,RID50276,LP249108-4
+st of urinary bladder arteries,RID50277,LP249111-8
+set of orbit veins,RID50279,LP230196-0
+set of vertebral vessels,RID50280,LP249569-7
+Spinal vessel,RID50281,LP232631-4
+Vasoconstrictor,RID50282,LP248904-7
+Cerebral artery,RID50283,LP249243-9
+Mesenteric artery,RID50284,LP249195-1
+Thoracic artery,RID50285,LP249245-4
+set of intraosseous veins,RID50286,LP250959-6
+Set of extracranial vessels,RID50287,LP251119-6
+air gap breast view,RID50328,LP264223-1
+rolled breast view,RID50329,LP266858-2
+Deep drainage,RID50330,LP263827-0
+greater than or equal to 21,RID50331,LP263804-9
+Central venous pericatheter obstruction,RID50332,LP263820-5
+Central venous pericatheter obstruction,RID50332,LP267220-4
+Nephroureteral stent,RID50333,LP263818-9
+Peritoneovenous shunt,RID50334,LP263811-4
+Platelet-rich plasma,RID50335,LP263833-8
+Port,RID50336,LP263824-7
+Tunneled catheter,RID50337,LP263838-7
+Non-tunneled central venous catheter,RID50338,LP264203-3
+Non-tunneled central venous catheter without port,RID50339,LP263823-9
+Tunneled central venous catheter without port,RID50340,LP263822-1
+Jejunostomy tube,RID50341,LP263831-2
+Lower leg vessel,RID50342,LP263424-6
+Central venous catheter lumen obstruction,RID50343,LP263834-6
+Object removal,RID50349,LP263431-1
+Catheter portion only of central venous catheter with port,RID50350,LP263830-4
+Endovascular device,RID50358,LP263825-4
+Object repositioning,RID50359,LP248515-1
+Set of hepatic vessels,RID50362,LP264587-9
+Set of mesenteric vessels,RID50363,LP264584-6
+sunrise 20 degrees view,RID50367,LP266384-9
+sunrise 40 degrees view,RID50368,LP266385-6
+sunrise 60 degrees view,RID50369,LP266386-4
+Merchant 30 degrees view,RID50370,LP266389-8
+Merchant 45 degrees view,RID50371,LP266388-0
+Merchant 60 degrees view,RID50372,LP266387-2
+Trans-scapular view,RID50373,LP266395-5
+Qualitative,RID50374,LP266396-3
+Quantitative,RID50375,LP266397-1
+Bone density,RID50376,LP266430-0
+Set of hepatic veins,RID50377,LP249567-1
+Set of visceral vessels,RID50378,LP250958-8
+Set of ankle arteries,RID50379,LP230206-7
+Set of lower extremity arteries,RID50380,LP230201-8
+Set of upper extremity arteries,RID50381,LP230202-6
+Neck artery,RID50382,LP230198-6
+Neck vessel,RID50383,LP250934-9
+Set of pedal lymphatic vessels,RID50384,LP251031-3
+Long feeding tube,RID50385,LP251040-4
+Oblique upright view,RID50386,LP248202-6
+Motor function,RID50387,LP207344-5
+Iodine-131 iodocholesterol,RID50388,LP208677-7
+intra-ureteral,RID50390,LP251110-5
+I-123 metaiodobenzylguanidine,RID50391,LP213589-7
+Cervical intervertebral disk,RID50392,LP262346-2
+Set of abdominal arteries,RID50393,LP249192-8
+Barium paste,RID50394,LP266555-4
+Radioembolization,RID50522,LP266959-8
+Vascular sclerotherapy,RID50523,LP266963-0
+Excisional biopsy,RID50524,LP267474-7
+Lumbar segment of spinal intrathecal space,RID50527,LP345110-3
+Sacral segment of spinal epidural space,RID50528,LP345108-7
+Thrombin,RID50529,LP267657-7
+Dialysis catheter,RID50530,LP266845-9
+Non-thrombolytic agent,RID50531,LP267218-8
+Large bore central venous catheter,RID50532,LP266921-8
+Tunneled central venous catheter,RID50533,LP267466-3
+Bitewing view,RID50534,LP266844-2
+Jones view,RID50535,LP266857-4
+1 or more views,RID50536,LP266837-6
+2 spinal levels,RID50537,LP268044-7
+3 or more spinal levels,RID50538,LP268040-5
+Biphase,RID50539,LP266975-4
+Single area,RID50540,LP266976-2
+Postmortem,RID50541,LP266906-9
+Gastric emptying,RID50542,LP266966-3
+Gastric emptying liquid phase,RID50543,LP266967-1
+Gastric emptying solid phase,RID50544,LP266968-9
+Tau protein,RID50545,LP345111-1
+Urodynamics,RID50546,LP267664-3
+Left ventricular function,RID50547,LP267223-8
+Dialysis,RID50549,LP267352-5
+Kidney function assessment,RID50550,LP266860-8
+Dental measurement,RID50551,LP266909-3
+New site,RID50552,LP407517-4
+Nephrostomy tract,RID50556,LP407513-3
+Max abduction,RID50628,LP267662-7
+Oblique prone,RID50629,LP267666-8
+Regional differential,RID50630,LP266910-1
+Ventricular volume,RID50631,LP267659-3
+Flow velocity,RID50632,LP267225-3
+Radiopharmaceutical clearance,RID50633,LP267658-5
+Physiologic artery study,RID50634,LP267224-6
+Oblique crosstable,RID50635,LP267660-1
+Serial acquisition,RID50636,LP267667-6
+infarction,RID5172,LP221399-1
+Metastasis,RID5231,LP206728-0
+gastroesophageal reflux,RID5260,LP267477-0
+foreign body,RID5425,LP208079-6
+foreign body,RID5425,LP208367-5
+Wire,RID5453,LP263826-2
+Venous filter,RID5552,LP248906-2
+Tube,RID5555,LP200065-3
+Tube,RID5555,LP249176-1
+Feeding tube,RID5561,LP248594-6
+Feeding tube,RID5561,LP251038-8
+Gastric tube,RID5562,LP263817-1
+gastrojejuenostomy tube,RID5564,LP263816-3
+Thoracostomy tube,RID5573,LP266902-8
+Catheter,RID5576,LP208082-0
+Catheter,RID5576,LP249200-9
+Catheter,RID5576,LP251033-9
+Central venous catheter,RID5578,LP248513-6
+Drainage catheter,RID5579,LP419078-3
+peripheral intravenous central catheter,RID5581,LP208097-8
+Swan-Ganz catheter,RID5584,LP263837-9
+Shunt catheter,RID5588,LP234177-6
+Shunt catheter,RID5588,LP251061-0
+Stent,RID5598,LP248514-4
+Stent,RID5598,LP249196-9
+Stent,RID5598,LP263815-5
+Abdomen,RID56,LP199956-6
+Needle,RID5605,LP208081-2
+Surgical clip,RID5607,LP206727-2
+Fetus,RID5640,LP207308-0
+LIMITED,RID5684,LP200099-2
+complete,RID5689,LP267470-5
+Postoperative,RID5729,LP207124-1
+Bilateral,RID5771,LP199951-7
+liver,RID58,LP199933-5
+aortic arch,RID581,LP199916-0
+anterior,RID5818,LP220551-8
+Brachiocephalic artery,RID582,LP207965-7
+LEFT,RID5824,LP199952-5
+RIGHT,RID5825,LP199953-3
+apical,RID5833,LP220556-7
+Deep Position,RID5835,LP200056-2
+Superficial,RID5836,LP267472-1
+Common carotid artery,RID584,LP200345-9
+Common carotid artery,RID584,LP230314-9
+Internal carotid artery,RID585,LP249576-2
+Cervical portion of internal carotid artery,RID586,LP249565-5
+Cerebral part of internal carotid artery,RID605,LP249578-8
+Body region,RID6062,LP213584-8
+tendon,RID6067,LP208055-6
+tendon,RID6067,LP269337-4
+Ligament organ,RID6071,LP269337-4
+Joint,RID6122,LP199931-9
+Joint,RID6122,LP199981-4
+Spinal canal,RID6135,LP249198-5
+Temporal brain region,RID6392,LP207510-1
+transurethral,RID6425,LP263803-1
+Transabdominal,RID6427,LP253463-6
+brain,RID6434,LP206702-5
+middle cerebral artery,RID665,LP208562-1
+Brainstem,RID6677,LP207337-9
+External carotid artery,RID684,LP230313-1
+epidural space,RID7111,LP249197-7
+Subarachnoid space,RID7119,LP249199-3
+Peripheral nerve,RID7195,LP249244-7
+Brachial plexus,RID7202,LP206634-0
+Maxillary artery,RID734,LP249250-4
+Spinal cord,RID7361,LP208377-4
+Lumbosacral plexus,RID7456,LP207614-1
+neck,RID7488,LP199995-4
+neck,RID7488,LP207511-9
+thyroid gland,RID7578,LP206648-0
+Parathyroid gland,RID7587,LP206704-1
+larynx,RID7589,LP199932-7
+Subclavian artery,RID773,LP206663-9
+vertebral artery,RID774,LP222058-2
+Spine,RID7741,LP200016-6
+Axis,RID7747,LP232820-3
+Dens,RID7749,LP232819-5
+Intervertebral disk,RID7890,LP199930-1
+Facet joint of spine,RID7901,LP200334-3
+Facet joint of spine,RID7901,LP249171-2
+Facet joint of spine,RID7901,LP249188-6
+treatment,RID8,LP263807-2
+treatment,RID8,LP267221-2
+treatment,RID8,LP267354-1
+internal thoracic artery,RID823,LP249180-3
+Spleen,RID86,LP199947-5
+brachial artery,RID865,LP230315-6
+Thoracic aorta,RID879,LP199915-2
+adrenal gland,RID88,LP199911-1
+Bronchial artery,RID880,LP251117-0
+Intercostal artery,RID884,LP251091-7
+Abdominal aorta,RID905,LP199914-5
+Celiac artery,RID906,LP249105-0
+Left gastric artery,RID908,LP249110-0
+head,RID9080,LP199977-2
+Mandible,RID9082,LP199988-9
+Mandible,RID9082,LP221498-1
+Gastroduodenal artery,RID910,LP249187-8
+Mandibular dental arcade,RID9106,LP264586-1
+skull,RID9196,LP221496-5
+Splenic artery,RID921,LP249193-6
+Maxilla,RID9236,LP199990-5
+Superior mesenteric artery,RID927,LP249240-5
+Maxillary dental arcade,RID9279,LP264585-3
+Sella turcica,RID9286,LP199945-9
+Adrenal artery,RID935,LP230319-8
+Renal artery,RID936,LP206689-4
+Temporal bone,RID9361,LP200024-0
+Temporal bone,RID9361,LP200401-0
+Petrous part of temporal bone,RID9362,LP199999-6
+Inferior mesenteric artery,RID939,LP249241-3
+internal auditory canal,RID9392,LP206737-1
+gastrointestinal tract,RID94,LP208558-9
+Internal iliac artery,RID945,LP208099-4
+Esophagus,RID95,LP199925-1
+Esophagus,RID95,LP199968-1
+Internal pudendal artery,RID954,LP249249-6
+uterine artery,RID955,LP249109-2
+Popliteal artery,RID962,LP207757-8
+Pulmonary artery,RID974,LP200002-6
+Pulmonary artery,RID974,LP206693-6
+Temporomandibular joint,RID9779,LP207356-9
+Mouth,RID9922,LP230212-5
+Cheek,RID9934,LP230213-3
+Submandibular gland,RID9968,LP249175-3
+Nasopharynx,RID9990,LP199994-7
+Nasopharynx,RID9990,LP207536-6
+Occlusal view,RID50640,LP419746-5
+Bernageau view,RID50641,LP426674-0
+valgus maneuver,RID50642,LP428445-3
+Canale view,RID50643,LP428918-9
+reverse oblique view,RID50644,LP428492-5
+abduction view,RID50645,LP429712-5
+pronated oblique view,RID50646,LP429567-3
+venous mapping,RID50647,LP430956-5
+stroke mapping,RID50648,LP430972-2
+seizure mapping,RID50649,LP430973-0
+cone beam computed tomography,RID50650,LP430827-8
+Slot radiography,RID50651,LP430794-0
+Vasodilator,RID50652,LP432424-2
+Pericardial Effusion,RID38588,LP411655-6
