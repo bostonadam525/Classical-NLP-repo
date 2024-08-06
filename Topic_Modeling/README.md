@@ -73,3 +73,7 @@ Using probabilities, LDA then reassigns w of document d a new topic k’
 - = p1 * p2
 
 These steps are repated numerous times until a "steady state" is reached where optimal matrix probabilities are obtained and the exhaustive number of topics.
+
+
+# References
+* Nath, 2023. "Topic modeling algorithms." Retrieved from: https://medium.com/@m.nath/topic-modeling-algorithms-b7f97cec6005
