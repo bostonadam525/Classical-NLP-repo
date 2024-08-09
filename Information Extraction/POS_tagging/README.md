@@ -60,3 +60,4 @@
 * [llmNER - zero shot tagging for NLP](https://github.com/plncmm/llmner)
 * Schopf, 2022. [Keyphrase Extraction with BERT Transformers and Noun Phrases](https://towardsdatascience.com/enhancing-keybert-keyword-extraction-results-with-keyphrasevectorizers-3796fa93f4db)
   * [Pattern Rank arxiv paper](https://arxiv.org/pdf/2210.05245)
+* Singh, 2021. [4 Python libraries to detect English and Non-English language](https://towardsdatascience.com/4-python-libraries-to-detect-english-and-non-english-language-c82ad3efd430)
