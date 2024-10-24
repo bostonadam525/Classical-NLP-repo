@@ -46,3 +46,14 @@ for df in df_lst:
     print(f"Null values found in DataFrame: {df.isnull().sum().sum()}")  # Print total number of nulls
   else:
     print("No null values in this DataFrame")
+
+
+
+
+
+
+## create venv
+python3 -m venv <virtual_env_name>
+
+## activate venv
+source /path/to/venv/bin/activate
