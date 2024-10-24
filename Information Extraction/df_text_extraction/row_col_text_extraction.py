@@ -32,3 +32,17 @@ def print_responses(row):
     print("-" * 20)
 
 sub_df.apply(print_responses, axis=1)
+
+
+
+## check null values in lst of df's
+## check null again
+df_lst= [df1, df2, df2, df3]
+
+# Iterate through the list of DataFrames directly
+for df in df_lst:
+  # Check for null values within each DataFrame
+  if df.isnull().values.any():
+    print(f"Null values found in DataFrame: {df.isnull().sum().sum()}")  # Print total number of nulls
+  else:
+    print("No null values in this DataFrame")
