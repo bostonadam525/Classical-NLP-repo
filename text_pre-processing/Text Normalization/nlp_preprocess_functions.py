@@ -19,3 +19,21 @@ def text_preprocessing(df):
     return df
 
 
+# 2. Another function
+import re
+
+# clean text function
+def clean_text(text):
+    # lower case the text - normalize the case
+    text = text.lower()
+
+    # remove punctuation
+    text = re.sub('[!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\n]', ' ', text)
+
+    # replace hyphen with blank space
+    text = re.sub('-', ' ', text)
+
+    # replace double blank spaces
+    text = re.sub('  ', ' ', text)
+
+    return text
