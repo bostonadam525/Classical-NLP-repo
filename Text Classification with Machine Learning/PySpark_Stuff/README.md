@@ -35,6 +35,16 @@
       * Tasks
       * Cache
 
+# How is PySpark different from Python?
+1. Runs on clusters.
+2. Machine Learning processes tend to be very different.
+3. PySpark DOES NOT use indexing like Python. 
+4. ALL objects in PySpark are IMMUTABLE — cant change them!
+5. PySpark error messages are LESS informative.
+6. Many Python libraries do not transfer directly to PySpark. 
+
+
+
 
 # Why use SPARK when we have HADOOP?
 * 1. In memory computation
@@ -66,5 +76,24 @@
    * 4. R
 
 
+# Spark GraphX
+* This is Spark’s API for graphs and graph-parallel computation
+* It brings together in a SINGLE SYSTEM:
+   * ETL (Extract, Transform, Load)
+   * Exploratory Data Analysis
+   * Iterative Graph Computation
+* Very popular with well known platforms such as:
+   * Facebook’s friend networks
+   * Linkedin connections
+   * Internet routers 
+   * Galaxys and Stars in Astrophysics
+   * Google Maps
+* Industry usage includes but is not limited to:
+   * Disaster detection 
+   * Banking
+   * Stock Market
+   * Geographical Systems
+   * Healthcare
+   * …..etc….
 
 
