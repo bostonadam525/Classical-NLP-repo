@@ -62,3 +62,5 @@
                   * Repeat this process until you get the desired number of synthetic samples
 
 
+![image](https://github.com/user-attachments/assets/b35ced6a-c188-45b6-bfeb-b46dc5a32f8b)
+
