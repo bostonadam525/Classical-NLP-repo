@@ -46,12 +46,14 @@
 * Techniques include:
 
 ### Over-Sampling or Upsampling --> Add more samples to the minority class.
-    a. **Random Over-sampling** --> Randomly make copies of the minority class until a specific ratio is reached.
+    a. **Random Over-sampling**
+        * Randomly make copies of the minority class until a specific ratio is reached.
         * PROBLEM with this approach: May lead to OVERFITTING of the ML model. 
 ![image](https://github.com/user-attachments/assets/8a6beafd-dd68-42ac-916d-47df0b6ac346)
 
     b. **Generate Synthetic Samples**
         * **SMOTE - synthetic minority oversampling technique)**
+            * Advantages: Can prevent OVERFITTING by random oversampling because it will not use original samples.
             * Very common approach. Creates synthetic samples of the minority or rare class by combining original samples.
             * It does this using a nearest neighbor approach -- source: [Bordia, 2022](https://medium.com/analytics-vidhya/handling-imbalanced-data-by-oversampling-with-smote-and-its-variants-23a4bf188eaf)
                   * Select a sample, let’s call it O (for Origin), from the minority class randomly
@@ -64,3 +66,10 @@
 
 ![image](https://github.com/user-attachments/assets/b35ced6a-c188-45b6-bfeb-b46dc5a32f8b)
 
+
+#### Additional Over Sampling Techniques
+* There are other over sampling techniques, check them out:
+
+
+
+### 
