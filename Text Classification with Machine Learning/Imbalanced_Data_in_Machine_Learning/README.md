@@ -124,4 +124,58 @@
 
 
  ## Machine Learning Model Methods for Imbalanced Data
+ * Basic concept with this approach is to make the ML model(s) more robust to class imbalance.
+ * This will NOT change the distribution of the training data.
+
+ 1. **Update Loss Function of the ML model -- Cost Sensitive Learning**
+    * You can design a loss function that will penalize the wrong classification of the minority class more than the wrong classification of the majority class.
+    * This will ultimately force the ML model to treat specific classes with more weight than the others during model training.
+    * This focuses on modifying learning algorithms optimization functions so they minimize the overall cost of misclassification instead of the overall error rate.
+        * By assigning specific costs to different types of misclassifications, cost-sensitive learning methods allow ML models to **prioritize the minority class** and achieve better performance in critical classification problems.
+    * As an example: **Class-balanced loss**
+        * This will make the weight of each class inversely proportinal to the number of samples in that class. 
+
+    * What are the different types of cost? -- these come from the confusion matrix in ML evaluation
+      1. false positive (cost of misclassifying the positive class as negative),
+      2. false negative (cost of misclassifying the negative class as positive),
+      3. true positive (correctly classifying the positive class), and
+      4. true negative (correctly classifying the negative class).
+
+* Excellent blog post on Cost sensitive learning: https://www.blog.trainindata.com/cost-sensitive-learning-for-imbalanced-data/
+
+2. **Select Specific Algorithms**
+   * Tree-based models will work very well on tasks that involve small and imbalanced datasets.
+   * Logistic Regresion is able to handle imbalance by itself pretty well.
+       * It does this by adjusting the probability threshold to improve the overall accuracy for predicting the minority class.
+
+3. **Combine Multiple Techniques**
+   a. **Under-sampling with Ensemble modeling**
+       * This will use all samples from the minority class and a subset of the majority class to train multiple models and then ensemble those models.
+   b. **Under-sampling + update loss function**
+       * Undersampling the majority class until a certain ratio is reached -->
+       * Calculate new weights for both classes -->
+       * Pass new weights to loss function of the model
+
+
+
+## Evaluation Metrics --- Which ones are best for handling imbalanced datasets?
+* You need to remember to choose the appropriate evaluation metric(s) for the task you are performing.
+* **IMPORTANT**: use **unsampled data** instead of resampled data to evaluate a model because using resampled data will only cause the model to OVERFIT the resampled data distribution.
+    * The test dataset should provide an accurate representation of the original dataset.
  
+* **Accuracy** is often **misleading** when classes are imbalanced!
+    * Why? Majority class accuracy performance will automatically dominate the metrics not giving you any insight into the actual accuracy of the minority classes.
+    * Consider using **accuracy of each individual class instead**. This will be more precise and interpretable.
+ 
+* **Precision, Recall, F1 Score**
+    * As we know these metrics measure an ML model's performance with respect to a positive class in a binary or multiclass classification problem.
+
+* **Precision-Recall Curve**
+    * This will identify a threshold that works well for yo9ur dataset.
+    * It will give more importance to the **positive class** which is very helpful when dealing with imbalanced data.
+ 
+
+* **AUC of the ROC Curve**
+    * Area under the curve of the receiver operating curve.
+    * This tunes thresholds to increase Recall and decrease False Positive rates.
+    * This will treat BOTH classes equally and is overall less sensitive to model improvements on MINORITY class so its less helpful comopared to **Precision-Recall** curve. 
