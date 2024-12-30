@@ -44,7 +44,8 @@
 ## Resampling (Data Level)
 * This will change the training data distribution to significantly reduce the levels of class imbalance.
 * Techniques include:
-  1. **Over-Sampling or Upsampling** --> Add more samples to the minority class.
+
+### **Over-Sampling or Upsampling** --> Add more samples to the minority class.
     a. **Random Over-sampling** --> Randomly make copies of the minority class until a specific ratio is reached.
         * PROBLEM with this approach: May lead to OVERFITTING of the ML model. 
 ![image](https://github.com/user-attachments/assets/8a6beafd-dd68-42ac-916d-47df0b6ac346)
@@ -52,7 +53,7 @@
     b. **Generate Synthetic Samples**
         * **SMOTE - synthetic minority oversampling technique)**
             * Very common approach. Creates synthetic samples of the minority or rare class by combining original samples.
-            * It does this using a nearest neighbor approach -- source: (Bordia, 2022)[https://medium.com/analytics-vidhya/handling-imbalanced-data-by-oversampling-with-smote-and-its-variants-23a4bf188eaf]
+            * It does this using a nearest neighbor approach -- source: [Bordia, 2022](https://medium.com/analytics-vidhya/handling-imbalanced-data-by-oversampling-with-smote-and-its-variants-23a4bf188eaf)
                   * Select a sample, let’s call it O (for Origin), from the minority class randomly
                   * Find the K-Nearest Neighbours of O that belong to the same class
                   * Connect O to each of these neighbours using a straight line
@@ -61,4 +62,3 @@
                   * Repeat this process until you get the desired number of synthetic samples
 
 
-How to deal with imbalanced dataset when data contains only 1% of the minority class (label=1)
