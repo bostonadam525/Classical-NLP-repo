@@ -45,7 +45,7 @@
 * This will change the training data distribution to significantly reduce the levels of class imbalance.
 * Techniques include:
 
-### **Over-Sampling or Upsampling** --> Add more samples to the minority class.
+### Over-Sampling or Upsampling** --> Add more samples to the minority class.
     a. **Random Over-sampling** --> Randomly make copies of the minority class until a specific ratio is reached.
         * PROBLEM with this approach: May lead to OVERFITTING of the ML model. 
 ![image](https://github.com/user-attachments/assets/8a6beafd-dd68-42ac-916d-47df0b6ac346)
