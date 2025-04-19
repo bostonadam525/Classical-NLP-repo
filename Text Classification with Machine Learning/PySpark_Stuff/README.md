@@ -21,7 +21,15 @@
 * If we have 1GB of data and we want to process it.
   * We could use 1 machine to process it….or...
   * We could use a CLUSTER of machines and scale this to an infinite number, there is NO LIMIT to how much we can scale these clusters in SPARK. 
-   * Distributed scaling is the hallmark of why SPARK is favored for BIG DATA workloads. 
+   * Distributed scaling is the hallmark of why SPARK is favored for BIG DATA workloads.
+ 
+
+# SPARK Ecosystem
+* Below is a breakdown of the ecosystem.
+
+
+![image](https://github.com/user-attachments/assets/099f161c-71da-4d8b-9170-e6f625818076)
+
 
 
 # SPARK Architecture
